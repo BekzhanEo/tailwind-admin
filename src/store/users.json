@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "name": "Артем Иванов",
+    "email": "artem@gmail.com",
+    "permissions": [
+      {
+        "title": "Блог",
+        "fillColor": "#C1C1CB",
+        "textColor": "#9494A0",
+        "value": "blog"
+      },
+      {
+        "title": "Аналитика",
+        "fillColor": "#C1C1CB",
+        "textColor": "#9494A0",
+        "value": "analyst"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": "2",
+    "name": "Лена Новикова",
+    "email": "lenkan@gmail.com",
+    "permissions": [
+      {
+        "title": "Администратор",
+        "fillColor": "#5A57FF",
+        "textColor": "#5A57FF",
+        "value": "admin"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Максим Иванов",
+    "email": "maksiim@gmail.com",
+    "permissions": [
+      {
+        "title": "Акции",
+        "fillColor": "#C1C1CB",
+        "textColor": "#9494A0",
+        "value": "stonks"
+      },
+      {
+        "title": "Модерация объявлений",
+        "fillColor": "#C1C1CB",
+        "textColor": "#9494A0",
+        "value": "moderatorsPin"
+      },
+      {
+        "title": "Тех. поддержка",
+        "fillColor": "#C1C1CB",
+        "textColor": "#9494A0",
+        "value": "techProm"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?cs=srgb&dl=pexels-simon-robben-614810.jpg&fm=jpg"
+  },
+  {
+    "id": "4",
+    "name": "Айжулдыз Кошкинбай",
+    "email": "aizhzk@gmail.com",
+    "permissions": [
+      {
+        "title": "Обращение клиентов",
+        "fillColor": "#C1C1CB",
+        "textColor": "#9494A0",
+        "value": "clientRequests"
+      }
+    ],
+    "image": "https://gorodprizrak.com/wp-content/uploads/2021/01/346545.jpg"
+  }
+]
